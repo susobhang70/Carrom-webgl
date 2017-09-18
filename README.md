@@ -1,3 +1,5 @@
+# Carrom-GL
+
 Carrom game made using WebGL (using Three.js API)
 
 Objective: To sink all the white pieces and the queen, avoiding the black pieces.
